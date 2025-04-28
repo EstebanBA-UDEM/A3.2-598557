@@ -23,3 +23,6 @@ del sistema.
 6. Considerando los cambios del punto anterior, genera un sistema que prediga en tiempo
 real los dígitos del 0 al 9 a partir de la imagen capturada por la cámara de la computadora,
 o algún otro dispositivo.
+
+- [HTML](./A3_2_598557.html)
+- [Jupyter Notebook](./A3_2_598557.ipynb)
