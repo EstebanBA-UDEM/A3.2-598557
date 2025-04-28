@@ -24,5 +24,5 @@ del sistema.
 real los dígitos del 0 al 9 a partir de la imagen capturada por la cámara de la computadora,
 o algún otro dispositivo.
 
-- [HTML](./A3_2_598557.html)
+- [HTML](./A3_2_598557(1).html)
 - [Jupyter Notebook](./A3_2_598557.ipynb)
